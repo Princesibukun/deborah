@@ -18,7 +18,7 @@ toggleSwitch.addEventListener("click", ()=>{
 });
 
 var typingEffect = new Typed(".typedText",{
-    strings: ["Designer", "Coder", "Developer"],
+    strings: ["Designer", "Coder", "Frontend Developer"],
 
     loop: true,
     typeSpeed: 100,
